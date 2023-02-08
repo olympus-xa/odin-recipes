@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(103, 185, 233);
+}
+h1 {
+    text-align: center;
+    font-size: 4em;
+    font-family:Helvetica, Arial, sans-serif;
+    color: rgb(224, 224, 77);
+}
+p {
+    text-align: center;
+    font-size: 2em;
+    font-family: Helvetica, Arial, sans-serif;
+}
+img {
+    height: auto;
+    width: 20px;
+}
